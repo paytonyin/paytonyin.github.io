@@ -848,6 +848,16 @@
 		});
 	} );
 
+
+
+	$(document).ready( function(){
+		var banner_url = "img/banner/" + Math.floor(Math.random()*14+1) +".jpg";
+		$('#banner').css('background-image',"url('"+banner_url+"')");
+
+	} );
+
+
+
 	// Fixing logo size transition in tricky header style
 	function et_fix_logo_transition( is_onload ) {
 		var $body                = $( 'body' ),
