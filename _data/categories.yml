@@ -1,10 +1,8 @@
-- slug: ios
-  name: iOS
+- slug: technology
+  name: technology
 #  color: '#3498db'
   
-- slug: design
-  name: Design
+- slug: think
+  name: think
 #  color: '#1abc9c'
 
-- slug: other
-  name: Other

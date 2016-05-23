@@ -1,29 +1,8 @@
-- slug: django
-  name: Django
+- slug: 2016
+  name: 2016
 
-- slug: django-template-tags
-  name: Django Template Tags
+- slug: memory
+  name: Memory
 
-- slug: font-awesome
-  name: Font Awesome
-
-- slug: icons
-  name: Icons
-
-- slug: image-processing
-  name: Image Processing
-
-- slug: python
-  name: Python
-
-- slug: github
-  name: GitHub
-
-- slug: github-pages
-  name: GitHub Pages
-
-- slug: jekyll
-  name: Jekyll
-  
-- slug: open-source
-  name: Open Source
+- slug: php
+  name: PHP

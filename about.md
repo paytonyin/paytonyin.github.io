@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /About/
+permalink: /about.html
 feature-img: "img/sample_feature_img_2.png"
+hide: true
 ---
 
 # Fengzhichu Theme
