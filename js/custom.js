@@ -851,7 +851,7 @@
 
 
 	$(document).ready( function(){
-		var banner_url = "img/banner/" + Math.floor(Math.random()*14+1) +".jpg";
+		var banner_url = "/img/banner/" + Math.floor(Math.random()*14+1) +".jpg";
 		$('#banner').css('background-image',"url('"+banner_url+"')");
 
 	} );
